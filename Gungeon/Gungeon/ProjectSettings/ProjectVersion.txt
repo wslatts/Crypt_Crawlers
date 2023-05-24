@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+m_EditorVersion: 2018.4.11f1
+=======
+m_EditorVersion: 2018.4.7f1
+>>>>>>> Updated Player Script and aim

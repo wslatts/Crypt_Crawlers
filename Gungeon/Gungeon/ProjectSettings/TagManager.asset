@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - Gem
+  - Potion
+  - Enemy
+  - Bullet
+  - chest
+  - table
+  - SmallPotion
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bullet
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 123848653
+    locked: 0
+  - name: Artifacts
+    uniqueID: 1236065577
+    locked: 0
+  - name: Player
+    uniqueID: 2852467203
+    locked: 0
+  - name: Bullet
+    uniqueID: 3160319245
+    locked: 0
