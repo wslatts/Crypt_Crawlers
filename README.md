@@ -7,6 +7,8 @@ A limited clone of the 2D game, Enter the Gungeon, developed as a group project 
 To run: 
 The only download necessary to run the game is the entire CryptCrawlersRunnable folder.  Simply run the executable from within.  You should see a Unity splash window upon boot and offered various choices for preferred quality of resolution according to your system as well as window/full screen options. There are three small levels and because the game is small, it starts off with little life force.  It will take a moment to get started well. Enjoy!
 
+---------------------
 
+There is an additional viewable video demonstrating the AI and shooting mechanisms incorporated into the game as my component to the overall project presentation and of which I no longer have access to the entire group combined video, unfortunately.
 
 
